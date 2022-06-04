@@ -3,11 +3,13 @@
 ## Day 0: June 3, 2022
 
 **Today's Progress:** Preparing for the 100 days challenge:
-    - Learned hotkeys in VS Code
-    - Did the VIM tutorial and started using it on VS Code
-    - Created a Twitter and Instagram account, sorted out my Discord account
+    - Learned some hotkeys in VS Code
+    - Started the VIM tutorial and did it until lesson 3.3
+    - Created a Twitter and Instagram account.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:**
+
+I do not have a CS degree, so there is a lot of background knowledge that I lack. However, I am excited to be starting this challenge.
 
 **Link(s) to work:**
 
