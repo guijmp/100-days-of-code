@@ -36,3 +36,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Thoughts:** I was quite concentrated today, but I got stuck because I didn't realize that I was compiling to a file with a slighlty different name, so I was running the same file over and over again and wondering why my changes were not working haha.
 
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/3c86931391e135a087e6c81340f88e74f72ada11))
+
+
+## Day 4: June 6, 2022
+
+**Progress:** Started implementation of a new feature to the calculator: user defined variables.
+
+**Thoughts:** The use of Tokens to allow for a stram with different types was very enlightning. I managed to spend some time reading and going through the book implementation but also started implementing it by myself without checking the book. I am happy with today's progress.
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/compare/main...FeatureWork))
