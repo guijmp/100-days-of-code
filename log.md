@@ -53,10 +53,4 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 **Thoughts:** Today I did not check the Book, so I am cureious to see how I fared once I deal with the compilation errors. I am happy with today's progress
 
-**Link to Work:** [Calculator](## Day 4: June 6, 2022
-
-**Progress:** Started implementation of a new feature to the calculator: user defined variables.
-
-**Thoughts:** The use of Tokens to allow for a stram with different types was very enlightning. I managed to spend some time reading and going through the book implementation but also started implementing it by myself without checking the book. I am happy with today's progress.
-
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/98a3c880da1be5dc60e84d85836969f106e801c2)
