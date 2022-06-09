@@ -54,3 +54,14 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Thoughts:** Today I did not check the Book, so I am cureious to see how I fared once I deal with the compilation errors. I am happy with today's progress
 
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/98a3c880da1be5dc60e84d85836969f106e801c2)
+
+
+## Day 6: June 9, 2022
+
+**Progress:** Setting variables inside main function seems to be working but user defined variables needs debugging.
+
+**Thoughts:** I was a bit tired today so I wasn't very productive. Git bash stoped running excutable file so got stuck with that for a while.
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/6680d0647392b9dfe4ef909019ac5463bf291429)
+
+
