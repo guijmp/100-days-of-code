@@ -65,3 +65,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/6680d0647392b9dfe4ef909019ac5463bf291429)
 
 
+## Day 7: June 10, 2022
+
+**Progress:** Put some cout statements in critical parts to try to debugg the code.
+
+**Thoughts:** I was not paying a lot of attention today and I haven't managed to figure out why the code is not working. On the other hand, the current behaviour is very strange so I am really curious as to what is happening.
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/d1db3c1b56c6427919a8d13d7c435064e2a93772)
+
+
