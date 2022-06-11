@@ -74,3 +74,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/d1db3c1b56c6427919a8d13d7c435064e2a93772)
 
 
+## Day 8: June 11, 2022
+
+**Progress:** Found out reason for odd behaviour was just good functioning of the program. It seems to be working now, but needs further testing
+
+**Thoughts:** I was getting confuseed because I wasn't mentally following the program from the beggining. Pro tip: when in doubt, start from the beggining!
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/d539534d76e29aa4b2b406b75262baa67c3f06c2)
+
+
+
