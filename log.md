@@ -83,4 +83,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/d539534d76e29aa4b2b406b75262baa67c3f06c2)
 
 
+## Day 9: June 12, 2022
+
+**Progress:** Removed unecessary cout statements. Tested calculator with weird inputs. Implemented a function for the sqrt.
+
+**Thoughts:** Although today was a crazy day (coming back from a camping trip!) I am very happy that I sat down and still managed to be productive with the code today.
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/7c669987f0e742506a95812e4407cabe504c86d1)
+
+
 
