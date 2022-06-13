@@ -92,4 +92,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/7c669987f0e742506a95812e4407cabe504c86d1)
 
 
+## Day 10: June 13, 2022
+
+**Progress:** Implemented function for power, modified quit and let keyworkds.
+
+**Thoughts:** Today was also good progress, but I am getting a bit tired of this calculator project, as it is dragging for a bit. Luckily, only a few last modifications are sugested at the end of chpt. 7 so hopefully I will be done with this calculator in one week.
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/7443941ed3c8dec19e2d54bda798aa10e1ec4305)
+
 
