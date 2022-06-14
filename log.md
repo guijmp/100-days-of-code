@@ -101,3 +101,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/7443941ed3c8dec19e2d54bda798aa10e1ec4305)
 
 
+## Day 11: June 14, 2022
+
+**Progress:** Variable names can now contain underscores, started adding assignment feature to change values of stored variables.
+
+**Thoughts:** Today was good progress, I was very focused and the hour went by quickly. I think I am very close to getting the assignment of variables right, so it should be straight forward to do that tomorrow.
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/54e8c558233f42fec836f58ae30af6922029bf65)
+
+
+
