@@ -110,4 +110,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/54e8c558233f42fec836f58ae30af6922029bf65)
 
 
+## Day 12: June 14, 2022
+
+**Progress:** Understood a key part of why assignment was not working. This was due to using range based for loops without reference. Fixed it and now assignment is working. Started introducing constant variables.
+
+**Thoughts:** Today was very productive, I learnt the difference between using for loops with and without reference. 
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/12083f54912865361fae51afda820c7582f092c7)
+
 
