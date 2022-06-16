@@ -110,7 +110,7 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/54e8c558233f42fec836f58ae30af6922029bf65)
 
 
-## Day 12: June 14, 2022
+## Day 12: June 15, 2022
 
 **Progress:** Understood a key part of why assignment was not working. This was due to using range based for loops without reference. Fixed it and now assignment is working. Started introducing constant variables.
 
@@ -118,4 +118,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/12083f54912865361fae51afda820c7582f092c7)
 
+
+## Day 13: June 16, 2022
+
+**Progress:** Introduced small improvements in the code, making it more consistent (fron cin >> ch; to cin.get(ch);)
+
+**Thoughts:** Started with 0 motivation to code, ended up coding more than 1h, although still quite irritable today. Overall was still an Okay progress.
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/cff6870f2ef11c2ffe51b4afe848e5187e833d0e)
 
