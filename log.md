@@ -127,3 +127,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/cff6870f2ef11c2ffe51b4afe848e5187e833d0e)
 
+
+## Day 14: June 17, 2022
+
+**Progress:** Introduced comment that explains Grammar, realized that pow and sqrt functions were at the wrong level of Grammar. COrrected it. Changed layout of code for better readability
+
+**Thoughts:** Got stuck trying to figure out a way of taking assignment operation outside Primary level of Grammar. Main issue is that token stream cannot store two Tokens at a time so reading 2 Tokens in advance is not available. Decided to stick to current Grammar, because it is indeed working as intended. I think it will be best to mode Definition under the Primary level as well, to keep consistency.
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/cf2e3d88d2738f8de15c06c7f0bf5cbee9decc47)
+
