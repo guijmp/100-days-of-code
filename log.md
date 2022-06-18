@@ -136,3 +136,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/cf2e3d88d2738f8de15c06c7f0bf5cbee9decc47)
 
+
+## Day 15: June 17, 2022
+
+**Progress:** Put definititions of variables at the Primary level. Need to do final change to make calculator accept only ints
+
+**Thoughts:** Todya was okay, nothing special. My progress is very slow, as in two weeks I got over one chapter of the book.
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/99365a5548e42367e17d0a5c4d2df3b932b92fa5)
+
