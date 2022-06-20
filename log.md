@@ -146,11 +146,20 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/99365a5548e42367e17d0a5c4d2df3b932b92fa5)
 
 
-## Day 15: June 17, 2022
+## Day 16: June 17, 2022
 
 **Progress:** Today I finally moved on to chapter 8. Read about half of it, and it was very enlightning in explaining the different ways of passing arguments in functions
 
 **Thoughts:** I did not code today, I just read the book, so I guess that is against the rules. However, I do think I am actually learning when I have these few days of just reading, so I can be better prepared for the coding implemntation, so I am going to count it towards the challenge.
+
+**Link to Work:** None :(
+
+
+## Day 17: June 20, 2022
+
+**Progress:** Finished reading chapter 8, started the simple Drill. Got stuck with an issue due to Linkage of files.
+
+**Thoughts:** I really was not feeling it today, I spent the whole hour quite irritated. Also have not managed any progress.
 
 **Link to Work:** None :(
 
