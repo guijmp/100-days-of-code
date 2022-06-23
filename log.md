@@ -163,3 +163,25 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 **Link to Work:** None :(
 
+
+## Day 18 and 19: June 21 and 22, 2022
+
+**Progress:** Participated in the Bright Network Internship experience, coded a path finding algorithm in Python
+
+**Thoughts:** I thoughrouly enjoyed coming up with the algorithm myself, I am happy with the result
+
+**Link to Work:** *To be added*
+
+
+## Day 20: June 23, 2022
+
+**Progress:** Did the drill of CHapter 8 on passing variable by value, reference or const reference.
+
+**Thoughts:** I spent way too much time figuring out that in order to link two cpp files they both need to be specified on the compiler
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills)
+
+
+
+
+
