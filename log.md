@@ -183,5 +183,16 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 
 
+## Day 21: June 24, 2022
+
+**Progress:** Edited Calculator program to use header files and avoid global variables - pass variables by reference
+
+**Thoughts:** Today was okay, not too productive, but not too bad either. Happy with the state of the calculator program.
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/42b6a5b222ba351d87764eb01b5fd199daaaa2ee)
+
+
+
+
 
 
