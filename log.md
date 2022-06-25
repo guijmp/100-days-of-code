@@ -192,6 +192,15 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/42b6a5b222ba351d87764eb01b5fd199daaaa2ee)
 
 
+## Day 22: June 25, 2022
+
+**Progress:** Did some exercises from chapter 8. Highlight was a function to reverse a vector using only the reference to that vector. Loved the simplicity and elegance of my solution.
+
+**Thoughts:** Today was actually quite productive, and ended on a great note with my solution for reversing a vector by reference.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/089299b349d8f95ab484bc1f3be1de8b9b237399)
+
+
 
 
 
