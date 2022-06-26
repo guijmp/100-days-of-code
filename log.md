@@ -201,6 +201,14 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/089299b349d8f95ab484bc1f3be1de8b9b237399)
 
 
+## Day 23: June 26, 2022
+
+**Progress:** Did some more exercises from chapter 8. Did some function that simulates the behaviour of zip in python()
+**Thoughts:** Today I was focused as well, so I would say that it was productive. Only managed to get through 2 exercises but oh well.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/38fa1be1229ef363a10f7d33248f4c7674918074)
+
+
 
 
 
