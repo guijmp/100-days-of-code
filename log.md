@@ -210,7 +210,7 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/38fa1be1229ef363a10f7d33248f4c7674918074)
 
 
-## Day 23: June 26, 2022
+## Day 24: June 27, 2022
 
 **Progress:** Did one more exercise at the end of chapter that utilised struct. Great way to return several values from function!
 
