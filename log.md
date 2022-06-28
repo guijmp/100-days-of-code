@@ -219,6 +219,16 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/68644b24f24b245de266f9c359a1a0d6af7ecb1c)
 
 
+## Day 25: June 28, 2022
+
+**Progress:** Finished exercises from chapter 8, started chapter 9.
+
+**Thoughts:** I was really tired today and generally not feeling it. Still, some progress is better than none.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/c9daf12886ceae37edc1ec08ae84344791fce979)
+
+
+
 
 
 
