@@ -228,6 +228,17 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/c9daf12886ceae37edc1ec08ae84344791fce979)
 
 
+## Day 26: June 29, 2022
+
+**Progress:** Finished reading chapter 9, but did no coding.
+
+**Thoughts:** I was so not in the mood + really tired, so ended up just reading the chapter
+
+**Link to Work:** None
+
+
+
+
 
 
 
