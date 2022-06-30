@@ -237,6 +237,15 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** None
 
 
+## Day 27: June 30, 2022
+
+**Progress:** Started Drill for the Date class.
+
+**Thoughts:** Today went okay, I managed to write the bones of the date class and start getting used to writing robust code for the users
+
+**Link to Work:** [Date](https://github.com/guijmp/Date/commit/e7b3aef3e0f50234abff9fa09594f6f60aeae90a)
+
+
 
 
 
