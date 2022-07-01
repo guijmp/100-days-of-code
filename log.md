@@ -247,6 +247,17 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 
 
+## Day 28: July 1, 2022
+
+**Progress:** Finished Drill for date class
+
+**Thoughts:** I did some progress today as well, mainly on trying out overloading operators and const member functions.
+
+**Link to Work:** [Date](https://github.com/guijmp/Date/commit/876bef4980eca616d4c6ddde6ff166dc2a5e16b6)
+
+
+
+
 
 
 
