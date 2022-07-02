@@ -256,6 +256,16 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Date](https://github.com/guijmp/Date/commit/876bef4980eca616d4c6ddde6ff166dc2a5e16b6)
 
 
+## Day 29: July 2, 2022
+
+**Progress:** Started chapter 9 exercises, class for pairs of names and ages
+
+**Thoughts:** I was a bit sleepy, but managed to get into it halfway through.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills)
+
+
+
 
 
 
