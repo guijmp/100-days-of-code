@@ -265,6 +265,15 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills)
 
 
+## Day 30: July 3, 2022
+
+**Progress:** Started exercise for books in library
+
+**Thoughts:** Today was fine, not much learning.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/de8a0c4546cc628fa2670f16e72fcda1aacd35fb)
+
+
 
 
 
