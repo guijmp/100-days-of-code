@@ -274,6 +274,17 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/de8a0c4546cc628fa2670f16e72fcda1aacd35fb)
 
 
+## Day 31: July 4, 2022
+
+**Progress:** Wrote an equivalent function of Python's split()
+
+**Thoughts:** Today started with a fowl mood, but coding actually improved it.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/dbd221d08987c54a52f45030e3de62c30320f1c9)
+
+
+
+
 
 
 
