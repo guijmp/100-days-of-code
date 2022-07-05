@@ -283,6 +283,16 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/dbd221d08987c54a52f45030e3de62c30320f1c9)
 
 
+## Day 32: July 5, 2022
+
+**Progress:** Added a Patron class.
+
+**Thoughts:** Today I was also not feeling it, but it was okay.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/a85ee43fa44464bba085ecf2dcb857fa23666f99)
+
+
+
 
 
 
