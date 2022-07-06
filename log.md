@@ -292,6 +292,17 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/a85ee43fa44464bba085ecf2dcb857fa23666f99)
 
 
+## Day 33: July 6, 2022
+
+**Progress:** Seperated project into different files. Added overarching Library class.
+
+**Thoughts:** Today I was really into it yeah.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/47cf6d8f966ad11da7aecfbcd49d3a21c51a734e)
+
+
+
+
 
 
 
