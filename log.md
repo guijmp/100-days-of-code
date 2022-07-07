@@ -302,15 +302,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 
 
+## Day 34: July 7, 2022
 
+**Progress:** Almost finished writing all functions, so far so good.
 
+**Thoughts:** Today was also quite productive.
 
-
-
-
-
-
-
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/07c5da464fb3cc3bf9a5362d4f57e9920be31b01)
 
 
 
