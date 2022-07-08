@@ -312,4 +312,14 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 
 
+## Day 35: July 8, 2022
+
+**Progress:** Finished writing functions, still requires debugging.
+
+**Thoughts:** The beginning of today was absolutely excruciating, because I was tired due to a poor night of sleep. Somehow I managed to get through the whole hour.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/b97c652d3a7b57a0bc6f7f2b0f80e2fd8ebd10de)
+
+
+
 
