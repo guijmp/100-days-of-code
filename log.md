@@ -321,5 +321,14 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/b97c652d3a7b57a0bc6f7f2b0f80e2fd8ebd10de)
 
 
+## Day 36: July 9, 2022
+
+**Progress:** Finished Library project, working to a satisfactory degree. Started writing simple class for operations with rational numbers
+
+**Thoughts:** Today was again incredibly difficult to start, I could not fathom how I would get through the hour. However, it got much better once I got into the flow of things.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/78868c405fcec8a383f0ced0504a9267de36aaec)
+
+
 
 
