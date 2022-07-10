@@ -330,5 +330,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/78868c405fcec8a383f0ced0504a9267de36aaec)
 
 
+## Day 36: July 10, 2022
+
+**Progress:** Did some small progress on hte Rational class
+
+**Thoughts:** Today was very unproductive, I barely touched the code. Found an online example of a properly implemented Rational class and was surprised by its elegance and simplicity. There is still a lot that I do not know, so I might try to implement this example as a way of learning.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/1e9166805577addeb05aa762165e8f159f2007dc)
+
 
 
