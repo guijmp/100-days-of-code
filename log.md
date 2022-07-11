@@ -330,7 +330,7 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/78868c405fcec8a383f0ced0504a9267de36aaec)
 
 
-## Day 36: July 10, 2022
+## Day 37: July 10, 2022
 
 **Progress:** Did some small progress on hte Rational class
 
@@ -338,5 +338,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/1e9166805577addeb05aa762165e8f159f2007dc)
 
+
+## Day 38: July 11, 2022
+
+**Progress:** Did very little progress on the Rational class.
+
+**Thoughts:** Today was actually one of the least productive days thus far, I had a very demanding day at work and I am curretnly mentally exhausted so I couldnt properly focus on the code today.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/1e9166805577addeb05aa762165e8f159f2007dc)
 
 
