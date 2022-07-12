@@ -348,3 +348,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/1e9166805577addeb05aa762165e8f159f2007dc)
 
 
+
+## Day 39: July 12, 2022
+
+**Progress:** Started reading chapter 10 on I/O.
+
+**Thoughts:** Today was the third horrible consecutive day. I did not manage to get into flow and actaully had to take a 10 min nap because I got so exhausted half way through.
+
+**Link to Work:** None unfortunately
+
