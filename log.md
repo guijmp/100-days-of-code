@@ -357,3 +357,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 **Link to Work:** None unfortunately
 
+
+## Day 40: July 13, 2022
+
+**Progress:** Started simple exercise for I/O. Tried to do it by myself but it is currently not working, gets stuck in a while loop.
+
+**Thoughts:** Today was okay, slightly mediocre. I find that it goes much better if I actually start to code right away.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/fbe69774760aa5d2f28c89c5650f574d3907cbdd)
+
