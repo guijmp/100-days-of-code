@@ -366,3 +366,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/fbe69774760aa5d2f28c89c5650f574d3907cbdd)
 
+
+## Day 41: July 14, 2022
+
+**Progress:** Fixed the issues I was having with I/O, although I am still not entirely sure how these issues are happening.
+
+**Thoughts:** Today I felt very good, I managed to be really focused and the code ended up working as expected, so I am very pleased.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/eaba82ac7b4356e855aa7b1965352af095e49178)
+
