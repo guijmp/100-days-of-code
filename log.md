@@ -375,3 +375,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/eaba82ac7b4356e855aa7b1965352af095e49178)
 
+
+## Day 42: July 15, 2022
+
+**Progress:** Realized thw cause of the issues I was having, rewrote same function but in simpler and more robust way.
+
+**Thoughts:** Today okay, not super productive but still managed to learn a good pattern for reading data.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/51853c2d5651e85d1c3b27758146255817e9d8cc)
+
