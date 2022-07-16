@@ -384,3 +384,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/51853c2d5651e85d1c3b27758146255817e9d8cc)
 
+
+## Day 43: July 16, 2022
+
+**Progress:** Did most of the Drill at the end of chapter.
+
+**Thoughts:** Today was also a good day, although it seems I am forever stuck doing trivial exercises.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/37ac15ad50101b1b1598827d76670c6c788b128f)
+
+
