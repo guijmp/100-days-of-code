@@ -394,3 +394,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/37ac15ad50101b1b1598827d76670c6c788b128f)
 
 
+
+## Day 44: July 17, 2022
+
+**Progress:** Did some simple exercises: Read ints from file and do the sum. Write a file with temperatures with some random variation.
+
+**Thoughts:** Today I felt concentrated in what I was doing, but I am getting a bit sick of these textbook exercises.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/5e5fc7f19e3d497c905d8b89eaf8dcd7e04122a2)
+
+
