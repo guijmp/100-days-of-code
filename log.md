@@ -404,3 +404,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/5e5fc7f19e3d497c905d8b89eaf8dcd7e04122a2)
 
 
+## Day 45: July 18, 2022
+
+**Progress:** Did most of exercises 3 and 4, but need to fix it still.
+
+**Thoughts:** Today I felt actually amazing, super into it. Vibing.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/0a8d38c6c0987e33ae0b56d98b4be6f6eb9eed4a)
+
+
