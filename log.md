@@ -413,3 +413,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/0a8d38c6c0987e33ae0b56d98b4be6f6eb9eed4a)
 
 
+
+## Day 46: July 19, 2022
+
+**Progress:** Started studying for the quantum computing hackaton
+
+**Thoughts:** Today I felt good, it is exciting to be starting quantum coomputing
+
+**Link to Work:** [qiskit_training](https://github.com/guijmp/qiskit_training/commit/df428e8778eba19aba968cf615a9b50a73e86a80)
+
+
