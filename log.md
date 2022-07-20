@@ -423,3 +423,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [qiskit_training](https://github.com/guijmp/qiskit_training/commit/df428e8778eba19aba968cf615a9b50a73e86a80)
 
 
+## Day 47: July 20, 2022
+
+**Progress:** Did intro to Bloch Sphere, and also fixed the issue on input streams.
+
+**Thoughts:** Today I was tired, but having dedicated the final 20 mins to debugging the input stream exercises was very rewarding.
+
+**Link to Work:** [Drill](https://github.com/guijmp/Drills/commit/175420f6248595e6e1acaf889c72eec646210966)
+
+
+
