@@ -432,4 +432,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drill](https://github.com/guijmp/Drills/commit/175420f6248595e6e1acaf889c72eec646210966)
 
 
+## Day 48: July 21, 2022
+
+**Progress:** Did a simple script that concatenates two text files. Solved a bug in the calculator program. Will return to calculator program to add functunality of reading input from text file.
+
+**Thoughts:** Today went very well, I managed to do things quickly.
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/b4e453996caacd4cddba9054891fc714dfe748ac)
+
+
 
