@@ -442,3 +442,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 
 
+## Day 49: July 22, 2022
+
+**Progress:** Wrote the main body of the new feature to read commands from a file. Need to debug.
+
+**Thoughts:** Today time went by very quickly, I barely noticed it flow.
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/41c88010deb6daa488e870e3dd167bc22e0d4530)
+
+
+
