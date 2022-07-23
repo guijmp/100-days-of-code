@@ -451,4 +451,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/41c88010deb6daa488e870e3dd167bc22e0d4530)
 
 
+## Day 50: July 23, 2022
+
+**Progress:** The token 'from' and reading from file seems to be working!
+
+**Thoughts:** Today was also a good day, easily went by.
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/feee31ff4dd538846a3c3d2d78381a9c3c55e117)
+
+
 
