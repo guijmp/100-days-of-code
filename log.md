@@ -460,4 +460,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/feee31ff4dd538846a3c3d2d78381a9c3c55e117)
 
 
+## Day 51: July 25, 2022
+
+**Progress:** Wrote a similar implementation for Token to, but need to find a way to naturally close the output stream.
+
+**Thoughts:** I missed yesterday because I had a very full holiday day and I did not prepare in advance. So today I did almost two hours to account for it. It went well.
+
+**Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/51a714867f6e558f9f680926eb458ebbc16fb95a)
+
+
 
