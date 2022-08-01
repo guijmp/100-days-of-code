@@ -460,13 +460,43 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/feee31ff4dd538846a3c3d2d78381a9c3c55e117)
 
 
-## Day 51: July 25, 2022
+## Day 51: July 24, 2022
 
 **Progress:** Wrote a similar implementation for Token to, but need to find a way to naturally close the output stream.
 
 **Thoughts:** I missed yesterday because I had a very full holiday day and I did not prepare in advance. So today I did almost two hours to account for it. It went well.
 
 **Link to Work:** [Calculator](https://github.com/guijmp/Calculator/commit/51a714867f6e558f9f680926eb458ebbc16fb95a)
+
+
+## Day 52, 53: July 25, 26
+**Progress:** Worked on Quantum Computing examples provided by Qiskit.
+
+**Thoughts:** Went well, did several hours of study.
+
+**Link to Work:** None
+
+
+## Day 54, 55: July 27, 28
+**Progress:** Quantum Computing Hackathon
+
+**Thoughts:** Very Intense, several hours of coding a day.
+
+**Link to Work:** [Quantum Hackathon](https://github.com/phalgunlolur/NQCC_Team1)
+
+
+## Day 56, 57, 58: July 29, 30, Aug 1
+
+**Progress:** Finished Chapter 10 exercises on Input / Ouptut
+
+**Thoughts:** THese days went quite well, I managed to be somewhat productive, considering I am still away from my house.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/894527110f854259237a5463939b1d8e69dbb2cb)
+
+
+
+
+
 
 
 
