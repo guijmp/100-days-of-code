@@ -494,6 +494,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/894527110f854259237a5463939b1d8e69dbb2cb)
 
 
+## Day 59: August 02, 2022
+
+**Progress:** Wrote a wrapper to cin that ignores punctuation on an input stream.
+
+**Thoughts:** It was incredibly hard to start today, mostly due to the heat and overall tiredeness from travelling back to Portugal. But as usual, it got much better in the final quarter of an hour.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/14845179a744c40684d53f11cf61e0197a98620f)
 
 
 
