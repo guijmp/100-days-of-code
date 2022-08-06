@@ -530,6 +530,14 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/f3672d371970e346089ee4c81205f85c4728285a)
 
 
+## Day 63: August 06, 2022
+
+**Progress:** Almost finished all exercises.
+
+**Thoughts:** Good vibes, nothing to report, although I did get myself want to be distracted.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/0d113743a8643e6164d2a5cac5fc4952ca5bc5c6)
+
 
 
 
