@@ -548,5 +548,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/b460dac4f97c45440a89e2adc05a7d7349ac1a8e)
 
 
+## Day 65: August 08, 2022
+
+**Progress:** Solved final exercise with a very standard solution because could not find why seekg() was not working with characters '\n'.
+
+**Thoughts:** Today I did my hour in the morning before work, so I was sharp.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/db90bfda0bd942f414d789e2807af9b909153937)
 
 
