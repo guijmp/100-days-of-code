@@ -557,3 +557,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/db90bfda0bd942f414d789e2807af9b909153937)
 
 
+## Day 66: August 09, 2022
+
+**Progress:** Tried to Build and Link external Graphical library. Was unsuccessful
+
+**Thoughts:** Today I was not feeling it, so I did not make a lot of progress.
+
+**Link to Work:** None
+
+
