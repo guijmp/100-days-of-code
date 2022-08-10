@@ -566,3 +566,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** None
 
 
+## Day 67: August 10, 2022
+
+**Progress:** Looked more into linking static libraires, aparently need to use include and lib folders. But FTLK library has no include folder??
+
+**Thoughts:** Today I did not manage to make anything work.
+
+**Link to Work:** None
+
+
