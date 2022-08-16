@@ -576,7 +576,7 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 
 
-## Day 68: August 10, 2022
+## Day 68: August 11, 2022
 
 **Progress:** Did some small progress in understanding how the compilation command is done on VS Code. I know that I could have the code up and running on VS, but honestly I want to do it as basic as possible so I understand what it is doing under the bonnet.
 
@@ -585,4 +585,28 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Link to Work:** None
 
 
+## Day 68: August 12, 2022
 
+**Progress:** Did some small progress in understanding how the compilation command is done on VS Code. I know that I could have the code up and running on VS, but honestly I want to do it as basic as possible so I understand what it is doing under the bonnet.
+
+**Thoughts:** Today I am actually feeling sick, which is likely Covid, I it was an absolute nightmare to get through the hour.
+
+**Link to Work:** None
+
+
+## Day 69: August 15, 2022
+
+**Progress:** Started trying to use gcc instead of VS Code compiler.
+
+**Thoughts:** It was indeed Covid.
+
+**Link to Work:** None
+
+
+## Day 70: August 16, 2022
+
+**Progress:** Aparently gcc does not recognize .lib files, so need to use the VS Code compiler. However I am having another issue with x86 vs x64 ...
+
+**Thoughts:** I still feel down, but I am getting better.
+
+**Link to Work:** None
