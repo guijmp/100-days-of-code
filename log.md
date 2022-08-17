@@ -610,3 +610,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Thoughts:** I still feel down, but I am getting better.
 
 **Link to Work:** None
+
+
+## Day 71: August 17, 2022
+
+**Progress:** Still stuck ...
+
+**Thoughts:** Today I was very distracted, did not manage to be productive.
+
+**Link to Work:** None
