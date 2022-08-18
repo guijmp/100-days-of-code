@@ -619,3 +619,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Thoughts:** Today I was very distracted, did not manage to be productive.
 
 **Link to Work:** None
+
+
+
+## Day 72: August 18, 2022
+
+**Progress:** Still stuck, now trying to make it work on Visual Studio (Or maybe soon I will switch to Linux)
+
+**Thoughts:** Today I was also distracted, so I was not productive.
+
+**Link to Work:** None
