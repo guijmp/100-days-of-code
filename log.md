@@ -629,3 +629,13 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Thoughts:** Today I was also distracted, so I was not productive.
 
 **Link to Work:** None
+
+
+## Day 73, 74, 75, 76: Sep 2, 2022
+**Progress:** Switched to Linux, and successfully managed to link fltk library to a simple script. Now I am having trouble with the header and source files for the wrapping of fltk that provides a cleaner user interface, currently there is a problem with the class window being defined twice.
+
+**Thoughts:** These past few days have been amazing in learning about Linux and overall operating systems, but not so much on C++ or numerical methods.
+
+**Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/878b5be38daacb59f7130995e42c02aa4419e587)
+
+
