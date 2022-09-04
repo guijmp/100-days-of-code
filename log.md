@@ -638,4 +638,7 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 
 **Link to Work:** [Drills](https://github.com/guijmp/Drills/commit/878b5be38daacb59f7130995e42c02aa4419e587)
 
-
+## Day 77, 78 Sep 4, 2022
+**Progress**: Solved some issues in the header and source files from the wrappers around the fltk library
+**Thoughts**: I am getting tired of setting up and resolving all of these issues.
+**Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/030238f0263be03af9a4d522d9060e4f208574ae)
