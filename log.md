@@ -642,3 +642,10 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Progress**: Solved some issues in the header and source files from the wrappers around the fltk library
 **Thoughts**: I am getting tired of setting up and resolving all of these issues.
 **Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/030238f0263be03af9a4d522d9060e4f208574ae)
+
+
+## Day 79 - 85 Sep 13, 2022
+**Progress**: Prepared nvim as an IDE and solved the issues on linking and compiling the libraries. Did follow along of chapter 12 and started making the end of chapter exercises.
+**Thoughts**: Things are back on track now. I did learn a lot from being stuck so many times trying to set everything up. Now it feels very good to see things working.
+**Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/72af74d86b1e1f03b1df61803b093b9b8a50b5ea)
+
