@@ -649,3 +649,9 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Thoughts**: Things are back on track now. I did learn a lot from being stuck so many times trying to set everything up. Now it feels very good to see things working.
 **Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/72af74d86b1e1f03b1df61803b093b9b8a50b5ea)
 
+
+## Day 86, Sep 14 2022
+**Progress**: Managed to make the grid work! It was not working because the constructor of Shape from reference was explicitly disabled.
+**Thoughts**: Was super stressy and anxious today, but I did manage to make things work, so I am satisfied.
+**Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/2d1a245c99dc4a6fd5a344240267b5348d551196)
+
