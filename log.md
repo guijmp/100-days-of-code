@@ -655,3 +655,9 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Thoughts**: Was super stressy and anxious today, but I did manage to make things work, so I am satisfied.
 **Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/2d1a245c99dc4a6fd5a344240267b5348d551196)
 
+
+## Day 87, Sep 16 2022
+**Progress**: Made the grid more prettier and automatic and added a frame around it.
+**Thoughts**: Still anxious, but managed to get some good progress today.
+**Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/5f980c261c05f4c4ee0af607cfa2956b26071e57)
+
