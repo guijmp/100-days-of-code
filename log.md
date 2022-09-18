@@ -665,3 +665,9 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Progress**: Made a loop to create rings similar to olympics logo.
 **Thoughts**: The logo worked fisrt time, very satisfying.
 **Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/85e1ce20a1ec5eccf17d2c23749b4d9e25e36e22)
+
+
+## Day 89, Sep 18 2022
+**Progress**: Started exercise with polygons.
+**Thoughts**: Not very productive today, not feeling it while I am at home.
+**Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/3f35fa6fc9945a8743038f638a4d5f6c9cb57ba3)
