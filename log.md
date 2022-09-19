@@ -671,3 +671,8 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Progress**: Started exercise with polygons.
 **Thoughts**: Not very productive today, not feeling it while I am at home.
 **Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/3f35fa6fc9945a8743038f638a4d5f6c9cb57ba3)
+
+## Day 90, Sep 19 2022
+**Progress**: Finished exercise with polygons. Wasnt working because of radians in cos and sin.
+**Thoughts**: I still managed to get a bit into flow today, so that was good.
+**Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/ea6c3d2654f0d994465bfad2f51b6c97fa907f08)
