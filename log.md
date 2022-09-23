@@ -683,3 +683,8 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Progress**: Started exercise with superelipses.
 **Thoughts**: Very unproductive today, wholeheartadly not feeling it.
 **Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/08aed463df50177fba30799dbf363040ba6ba659)
+
+## Day 92, Sep 23, 2022
+**Progress**: Made a red pentagram, preparing for the elipses.
+**Thoughts**: After missing two days while I was moving to university, today I managed to be focused.
+**Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/08aed463df50177fba30799dbf363040ba6ba659)
