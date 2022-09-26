@@ -688,3 +688,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Progress**: Made a red pentagram, preparing for the elipses.
 **Thoughts**: After missing two days while I was moving to university, today I managed to be focused.
 **Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/08aed463df50177fba30799dbf363040ba6ba659)
+
+
+## Day 93, Sep 26, 2022
+
+**Progress**: Made some red stars and superelipses.
+
+**Thoughts**: I missed two days becuase I have been busy with setting up everything for university. But today I was very productive and I am happy how the stars turned out.
+
+**Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/3959ced9801ef49ac4fa868677fcdbb776a82173)
