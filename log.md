@@ -697,3 +697,11 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Thoughts**: I missed two days becuase I have been busy with setting up everything for university. But today I was very productive and I am happy how the stars turned out.
 
 **Link to Work**: [Drills](https://github.com/guijmp/Drills/commit/3959ced9801ef49ac4fa868677fcdbb776a82173)
+
+## Day 94, Oct 3, 2022
+
+**Progress**: It has been a week since my last day, it has been more complicated with being back at university. Today I read through chapter 13, where the organization of the classes is presented.
+
+**Toughts**: I was tired today so I did not manage to cover a lot of ground.
+
+**Lind to work**: Read the chapter, so no link
