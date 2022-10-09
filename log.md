@@ -705,3 +705,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Toughts**: I was tired today so I did not manage to cover a lot of ground.
 
 **Lind to work**: Read the chapter, so no link
+
+
+## Day 95, Oct 3, 2022
+
+**Progress**: It has again been another week since my last update, but nonetheless I am comitted to finishing this challenge. I went over chapter13 and started doing the Drill. Seems that I will have some issues with opening images.
+
+**Toughts**: It started badly but after I started doing the exercises I got to actually do some progress.
+
+**Lind to work**: [Drills](https://github.com/guijmp/Drills/commit/406de0c007c39f0f7a29632c30fbd096ee0f217a)
