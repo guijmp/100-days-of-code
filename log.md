@@ -714,3 +714,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Toughts**: It started badly but after I started doing the exercises I got to actually do some progress.
 
 **Lind to work**: [Drills](https://github.com/guijmp/Drills/commit/406de0c007c39f0f7a29632c30fbd096ee0f217a)
+
+
+## Day 96, Oct 3, 2022
+
+**Progress**: Tried to insert an image in the output but it is currectly not working becuase the ususal ifstream is not opening the .jpg file.
+
+**Toughts**: I was paying attention today and the time went by rather quickly.
+
+**Lind to work**: [Drills](https://github.com/guijmp/Drills/commit/1d846e2fb4727e5d8ca70bc554292d160bb065a2)
