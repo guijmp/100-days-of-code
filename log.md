@@ -723,3 +723,12 @@ I do not have a CS degree, so there is a lot of background knowledge that I lack
 **Toughts**: I was paying attention today and the time went by rather quickly.
 
 **Lind to work**: [Drills](https://github.com/guijmp/Drills/commit/1d846e2fb4727e5d8ca70bc554292d160bb065a2)
+
+
+## Day 97, Nov 2, 2022
+
+**Progress**: Did a simpple exercise that plots random red squares on a window. Tried to do it in real time with a sleep function but I have no idea how to achieve this. 
+
+**Toughts**: Did not do much today, but I still enjoyed reminding myself of C++.
+
+**Lind to work**: [Drills](https://github.com/guijmp/Drills/commit/4c2ec627a09e8dfd894290aec0a51791a57a7c61)
